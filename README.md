@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Eu sou o Fonçoni Camussam
+
+### 👨🏽‍💻 Sobre mim:
+
+- 🎓 Formado em Ciência da Computação
+- 💼 Membro da Kukuenga T.I.
+- 🔐 Estudioso de segurança em carteiras digitais e contratos inteligentes
+- 💡 Atuando em projetos com Laravel, PHP, JavaScript, e Blockchain
+- 🧠 Sempre aprendendo sobre desenvolvimento web, software e infraestrutura
+- 🌍 Angolano
 
 <!--
 **Fonconi/Fonconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
